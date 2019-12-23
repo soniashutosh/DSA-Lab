@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+#include<stdlib.h>
+
+struct listnode{
+	int data;
+	struct listnode *tail;
+};
