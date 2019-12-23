@@ -1,4 +1,4 @@
-// Stack with array
+// Stack using array
 
 
 #include<stdio.h>
